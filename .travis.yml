@@ -1,2 +1,2 @@
-script python ./test_plus.py
-
+script:
+- python ./test_plus.py
